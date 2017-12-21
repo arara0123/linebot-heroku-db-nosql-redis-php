@@ -1,0 +1,8 @@
+{
+    "require": {
+        "linecorp/line-bot-sdk": "^2.3",
+        "cloudinary/cloudinary_php": "^1.8",
+        "predis/predis": "^1.1",
+        "ext-gd": "^0.0.0"
+    }
+}
